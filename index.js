@@ -191,6 +191,8 @@ const users = [user_szymon, user_wojtek, 'test', 12];
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 
+
 console.log('Users:', users);
 users.push('test2');
 console.log('Users po pushu:', users);
+
